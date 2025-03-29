@@ -1,0 +1,12 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+# Data files
+data/multimodal/raw/
+data/multimodal/processed/
+data/timeseries/raw/
+data/timeseries/processed/
+
+# Secrets/credentials
+config/kaggle.json
